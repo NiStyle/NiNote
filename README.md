@@ -2,6 +2,7 @@
 
 > **NI STYLE AI EVENT REMINDER** — AI 驱动的跨平台定时提醒与日程管理桌面应用
 
+<img src="pics/1781749065112.jpg" alt="手机截图" style="zoom: 33%;" />
 ---
 
 ## 界面概览
@@ -21,7 +22,7 @@
 1. 点击右上角 ⚙ 进入**设置**
 2. 填写**模型名称** （默认 `deepseek-v4-flash`）
 3. 填写**API 地址**（默认 `https://api.deepseek.com`）
-4. 填写**API Key**
+4. 填写**API Key** （申请 `https://platform.deepseek.com`）
 5. 点击「测试连接」验证，然后「保存」
 
 ### 2. 添加你的第一个日程
