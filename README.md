@@ -2,7 +2,7 @@
 
 > **NI STYLE AI EVENT REMINDER** — AI 驱动的跨平台定时提醒与日程管理桌面应用
 
-<img src="pics/1781749065112.jpg" alt="手机截图" style="zoom: 33%;" />
+<img src="pics/1781749065112.jpg" alt="手机截图" style="width: 33%;" />
 ---
 
 ## 界面概览
